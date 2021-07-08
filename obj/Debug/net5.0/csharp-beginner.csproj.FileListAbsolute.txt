@@ -1,0 +1,16 @@
+D:\AppDev\csharp-beginner\bin\Debug\net5.0\csharp-beginner.exe
+D:\AppDev\csharp-beginner\bin\Debug\net5.0\csharp-beginner.deps.json
+D:\AppDev\csharp-beginner\bin\Debug\net5.0\csharp-beginner.runtimeconfig.json
+D:\AppDev\csharp-beginner\bin\Debug\net5.0\csharp-beginner.runtimeconfig.dev.json
+D:\AppDev\csharp-beginner\bin\Debug\net5.0\csharp-beginner.dll
+D:\AppDev\csharp-beginner\bin\Debug\net5.0\ref\csharp-beginner.dll
+D:\AppDev\csharp-beginner\bin\Debug\net5.0\csharp-beginner.pdb
+D:\AppDev\csharp-beginner\obj\Debug\net5.0\csharp-beginner.csproj.AssemblyReference.cache
+D:\AppDev\csharp-beginner\obj\Debug\net5.0\csharp-beginner.GeneratedMSBuildEditorConfig.editorconfig
+D:\AppDev\csharp-beginner\obj\Debug\net5.0\csharp-beginner.AssemblyInfoInputs.cache
+D:\AppDev\csharp-beginner\obj\Debug\net5.0\csharp-beginner.AssemblyInfo.cs
+D:\AppDev\csharp-beginner\obj\Debug\net5.0\csharp-beginner.csproj.CoreCompileInputs.cache
+D:\AppDev\csharp-beginner\obj\Debug\net5.0\csharp-beginner.dll
+D:\AppDev\csharp-beginner\obj\Debug\net5.0\ref\csharp-beginner.dll
+D:\AppDev\csharp-beginner\obj\Debug\net5.0\csharp-beginner.pdb
+D:\AppDev\csharp-beginner\obj\Debug\net5.0\csharp-beginner.genruntimeconfig.cache
